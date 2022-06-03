@@ -19,3 +19,6 @@
 - 정보통신기획원(IITP)의 방송통신산업 기술개발사업 ‘커넥티드 카를 위한 지능형 모바일 엣지 클라우드 솔루션 개발’ 과제 참여 (2019-2020)
 - ADT캡스|인포섹 아카데미 주관, 클라우드기반 데이터 보안 전문가 양성과정 수료, 장려상 수상, 선도기술상 (2021.08)
 
+# Certification
+- AWS Certified Cloud Practitioner
+- AWS Certified Solutions Architect - Associate
