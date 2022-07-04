@@ -38,7 +38,7 @@ jobs:
       # You may pin to the exact commit or the version.
         uses: pemtajo/badge-readme@2.3.0
         with:
-          GH_TOKEN: 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
+          GH_TOKEN: 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
           REPOSITORY: <username>/<username> # optional, By default, it will automatically use the repository who's executing the workflow.
           COMMIT_MESSAGE: "My commit message to update badges" # optional
           CREDLY_USER: joohwan-kim.b3e6ee44 # optional, but default will use the same from github
