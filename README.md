@@ -23,3 +23,5 @@
 - AWS Certified Cloud Practitioner
 - AWS Certified Solutions Architect - Associate
 - Certified Kubernetes Administrator
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
