@@ -8,7 +8,7 @@
 # Education
 - 인하대 전자공학과 학사 수료 (2019)
 - 인하대 공학대학원 전기•컴퓨터 공학과 석사 수료 (2021.02)
-- SK 쉴더스 infosec Cloud사업1담당 선임(2021.10)
+- SK 쉴더스 Cloud사업1담당 선임(2021.10)
 
 # Paper
 - SCI 논문 게재 "GPU-based embedded edge server configuration and offloading for a neural network service.“ The Journal of Supercomputing (2021): 1-29. 
