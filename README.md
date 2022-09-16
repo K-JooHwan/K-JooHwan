@@ -22,7 +22,7 @@
 # Certification
 - AWS Certified Cloud Practitioner
 - AWS Certified Solutions Architect - Associate
-- Certified Kubernetes Administrator
+- Certified Kubernetes Administrator(CKA)
 <!--START_SECTION:badges-->
 
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/130x130/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/3e3cdee5-ae31-459b-b454-2328d631a354 "AWS Certified Cloud Practitioner")
