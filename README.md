@@ -1,6 +1,6 @@
 # Introduce
 - 👋 Hi, I’m @K-JooHwan
-- 👀 I’m interested in Kubernetes, Container Security, Cloud
+- 👀 I’m interested in Kubernetes, Container Security, Cloud Solution Architecture
 - 🌱 I’m currently learning IT Security, AWS, Azure, GCP, K8s(Container Orchestration)
 
 - 📫 How to reach me wnghks3030_at_gmail_dot_com
