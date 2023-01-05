@@ -8,7 +8,6 @@
 # Education
 - 인하대 전자공학과 학사 수료 (2019)
 - 인하대 공학대학원 전기•컴퓨터 공학과 석사 수료 (2021.02)
-- SK 쉴더스 Cloud사업1담당 선임 - Cloud SaaS 플랫폼 전담(2021.10)
 
 # Paper
 - SCI 논문 게재 "GPU-based embedded edge server configuration and offloading for a neural network service.“ The Journal of Supercomputing (2021): 1-29. 
@@ -20,7 +19,7 @@
 - ADT캡스|인포섹 아카데미 주관, 클라우드기반 데이터 보안 전문가 양성과정 수료, 장려상 수상, 선도기술상 (2021.08)
 
 # Career
-- SK쉴더스, Cloud사업1담당 선임 / 컨테이너 시큐리티 전담
+- SK 쉴더스 Cloud사업1담당 선임 - Cloud SaaS 플랫폼 전담(2021.10)
 
 # Certification
 - AWS Certified Cloud Practitioner
