@@ -19,7 +19,8 @@
 - ADT캡스|인포섹 아카데미 주관, 클라우드기반 데이터 보안 전문가 양성과정 수료, 장려상 수상, 선도기술상 (2021.08)
 
 # Career
-- SK 쉴더스 Cloud사업1담당 선임 - Cloud SaaS 플랫폼 전담(2021.10 ~ )
+- SK 쉴더스 Cloud사업1담당 선임 - Cloud SaaS 플랫폼 및 컨테이너 전담 (2021.10 ~ )
+
 
 # Certification
 - AWS Certified Cloud Practitioner
