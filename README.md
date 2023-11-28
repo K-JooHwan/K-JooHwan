@@ -6,20 +6,25 @@
 - 📫 How to reach me wnghks3030_at_gmail_dot_com
 
 # Education
-- 인하대 전자공학과 학사 수료 (2013.03 ~ 2019.02)
-- 인하대 공학대학원 전기•컴퓨터 공학과 석사 수료 (2019.03 ~ 2021.02)
+- Completed Bachelor’s degree in Electronic Engineering from Inha University (인하대 전자공학과 학사 수료) (2013.03 ~ 2019.02)
+- Completed master’s degree in Electrical and Computer Engineering from Inha University Graduate School of Engineering (인하대 공학대학원 전기•컴퓨터 공학과 석사 수료) (2019.03 ~ 2021.02)
 
 # Paper
 - SCI 논문 게재 "GPU-based embedded edge server configuration and offloading for a neural network service.“ The Journal of Supercomputing (2021): 1-29. 
 
 # Activity & Project
-- 한이음 공모전 참가 : 스마트 헬스 미러 (2018)
-- ㈜SJ테크와 산학협력 프로젝트 “교통약자를 위한 퍼스널 이모빌리티 안전기술 개발” 참여 (2019)
-- 정보통신기획원(IITP)의 방송통신산업 기술개발사업 ‘커넥티드 카를 위한 지능형 모바일 엣지 클라우드 솔루션 개발’ 과제 참여 (2019-2020)
-- ADT캡스|인포섹 아카데미 주관, 클라우드기반 데이터 보안 전문가 양성과정 수료, 장려상 수상, 선도기술상 (2021.08)
+- Participation in Haneum Contest: Smart Health Mirror (한이음 공모전 참가 : 스마트 헬스 미러) (2018)
+- Participated in the industry-academia cooperation project “Development of personal e-mobility safety technology for the transportation vulnerable” with SJ Tech Co., Ltd.
+(㈜SJ테크와 산학협력 프로젝트 “교통약자를 위한 퍼스널 이모빌리티 안전기술 개발” 참여) (2019)
+- Participated in the ‘Development of Intelligent Mobile Edge Cloud Solution for Connected Cars’ project of the Information and Communications Technology Institute (IITP)’s broadcasting and communications industry technology development project. (2019-2020)
+(정보통신기획원(IITP)의 방송통신산업 기술개발사업 ‘커넥티드 카를 위한 지능형 모바일 엣지 클라우드 솔루션 개발’ 과제 참여) (2019-2020)
+- Hosted by ADT Caps|Infosec Academy, completed cloud-based data security expert training course, received encouragement award, and leading technology award (2021.08)
+(ADT캡스|인포섹 아카데미 주관, 클라우드기반 데이터 보안 전문가 양성과정 수료, 장려상 수상, 선도기술상) (2021.08)
 
 # Career
-- SK 쉴더스 Cloud사업1담당 선임 - Cloud Oriented Service 전담 & 컨테이너 환경 지원 (2021.10 ~ )
+- SK Shieldus, Cloud Business Part, Associate - Cloud Oriented Service Dedicated & Container Environment
+쉴더스 Cloud사업1담당 선임 - Cloud Oriented Service 전담 & 컨테이너 환경 지원 (2021.10 ~ )
+
 
 
 # Certification
