@@ -30,6 +30,7 @@
 # Certification
 - AWS Certified Cloud Practitioner
 - AWS Certified Solutions Architect - Associate
+- AWS Certified Security Specialty
 - Microsoft Certified: Azure Administrator Associate
 - Certified Kubernetes Administrator(CKA)
 <!--START_SECTION:badges-->
