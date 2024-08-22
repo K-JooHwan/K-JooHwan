@@ -33,6 +33,7 @@ SK 쉴더스 Cloud서비스사업팀 책임 - Cloud Oriented Service 전담 & �
 - AWS Certified Solutions Architect - Associate
 - AWS Certified Security Specialty
 - Certified Kubernetes Administrator(CKA)
+- Certified Kubernetes Security Specialty(CKS)
 - Prisma Certified Cloud Seucirty Engineer (PCCSE)
 ## expired
 - Microsoft Certified: Azure Administrator Associate (~2022)
