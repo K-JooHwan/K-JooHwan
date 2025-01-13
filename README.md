@@ -37,6 +37,9 @@ SK 쉴더스 Cloud서비스사업팀 책임 - Cloud Oriented Service 전담 & �
 - Kubernetes and Cloud Native Associate (KCNA)
 - Kuberentes and Cloud Native Associate (KCSA)
 - Prisma Certified Cloud Seucirty Engineer (PCCSE)
+- ZIA Certified Administrator
+- ZPA Certified Administrator
+  
 ## expired
 - Microsoft Certified: Azure Administrator Associate (~2022)
   
@@ -51,3 +54,5 @@ SK 쉴더스 Cloud서비스사업팀 책임 - Cloud Oriented Service 전담 & �
 [![KCSA: Kubernetes and Cloud Native Security Associate](https://images.credly.com/size/130x130/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png)](http://www.credly.com/badges/f07803bc-8038-4a37-b8cf-6134c7dfe838 "KCSA: Kubernetes and Cloud Native Security Associate")
 [![Prisma Certified Cloud Security Engineer](https://images.credly.com/size/130x130/images/07def855-5168-4df7-8ff1-f54d94225e48/pan_pccse_digital-badge_sharing-logo-2048x2048.png)](http://www.credly.com/badges/2af8122f-4fd8-4fb2-88d8-a2596fc4dbe7 "Prisma Certified Cloud Security Engineer")
 <!--END_SECTION:badges-->
+
+
