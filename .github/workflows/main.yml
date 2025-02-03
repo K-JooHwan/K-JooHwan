@@ -43,6 +43,6 @@ jobs:
           COMMIT_MESSAGE: "My commit message to update badges" # optionalwill
           CREDLY_USER: joohwan-kim.b3e6ee44 # optional, but default will use the same from github
           CREDLY_SORT: POPULAR # optional, this is the two forms from credly sort, more popular or recent first, by default use RECENT
-          BADGE_SIZE: 120
+          BADGE_SIZE: 140
           NUMBER_LAST_BADGES: 48
 
