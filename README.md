@@ -3,7 +3,7 @@
 - 👀 I’m interested in Kubernetes, Container Security, Cloud Solution Architecture
 - 🌱 I’m currently learning IT Security, AWS, Azure, GCP, K8s(Container Orchestration)
 
-- 📫 How to reach me wnghks3030_at_gmail_dot_com
+- 📫 How to reach me wnghks3030_@t_gm@il_·_com
 
 # Education
 - Completed Bachelor’s degree in Electronic Engineering from Inha University (인하대 전자공학과 학사 수료) (2013.03 ~ 2019.02)
